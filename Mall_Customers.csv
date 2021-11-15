@@ -1,3 +1,6 @@
+#This a a custom file that gives an idea of what kind of Data an Analyst can find in the real world. It's all in a CSV file and 
+#has intersting columns like annual income and spending scores. It also lets us know the gender and age to help visualize demographics.
+
 CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100)
 1,Male,19,15,39
 2,Male,21,15,81
