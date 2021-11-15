@@ -16,9 +16,3 @@ age_max = 24
 df_age_19_24 = df.query("@age_min <= Age <= @age_max") #filtered csv by age
 
 print(df_age_19_24) #print list by age
-
-
-
-
-
-
